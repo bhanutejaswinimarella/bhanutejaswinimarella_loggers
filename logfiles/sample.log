@@ -1,0 +1,14 @@
+2020-07-22 1111:41:07 DEBUG App:19 -This is a DEBUG LOGGER
+2020-07-22 1111:42:03 DEBUG App:19 -This is a DEBUG LOGGER
+2020-07-22 1111:44:52 DEBUG App:15 -This is a DEBUG LOGGER
+2020-07-22 1111:45:48 DEBUG App:15 -This is a DEBUG LOGGER
+2020-07-22 1111:46:04 ERROR App:48 -Enter valid material type in input
+2020-07-22 1111:46:04 INFO  App:62 -Final block is executed
+2020-07-22 1111:46:13 DEBUG App:15 -This is a DEBUG LOGGER
+2020-07-22 1111:46:41 DEBUG App:15 -This is a DEBUG LOGGER
+2020-07-22 1111:46:52 DEBUG App:15 -This is a DEBUG LOGGER
+2020-07-22 1111:47:10 INFO  App:62 -Final block is executed
+2020-07-22 1111:49:23 DEBUG App:15 -This is a DEBUG LOGGER
+2020-07-22 1111:49:36 INFO  App:47 -COnstruction cost is estimated
+2020-07-22 1111:49:36 INFO  App:65 -Final block is executed
+2020-07-22 1212:31:51 INFO  App:62 -Final block is executed

@@ -1,0 +1,4 @@
+2020-07-22 1010:33:32 DEBUG App:19 -This is a DEBUG LOGGER
+2020-07-22 1010:33:46 INFO  App:55 -COmpound interest is calculated
+2020-07-22 1010:34:45 DEBUG App:19 -This is a DEBUG LOGGER
+2020-07-22 1010:34:56 INFO  App:42 -Simple interest is calculated 
